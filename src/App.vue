@@ -2,4 +2,8 @@
   <router-view />
 </template>
 
-<style lang="scss"></style>
+<style lang="scss">
+.el-message-box_status {
+  position: absolute !important;
+}
+</style>
